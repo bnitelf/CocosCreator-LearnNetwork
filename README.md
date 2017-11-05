@@ -22,4 +22,4 @@
 
 ## Script
 - **HelloWorld** - มีตัวอย่าง code การ request (GET, POST) ไปที่ web service (ใช้ form data)
-- **ไฟล์ script** เป็นไฟล์ที่ Cocos Creator สร้างให้เองตั้งแต่สร้าง project (ไม่ต้องสนใจก็ได้)
+- **ไฟล์ script อื่นๆ** เป็นไฟล์ที่ Cocos Creator สร้างให้เองตั้งแต่สร้าง project (ไม่ต้องสนใจก็ได้)
